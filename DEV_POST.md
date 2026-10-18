@@ -51,7 +51,7 @@ Small restaurants operate on 3–5% margins and lose up to **30% of potential to
 ## Code
 
 The complete source code is open source and hosted on GitHub:
-- **Repository**: [https://github.com/mohit-deshwal/bistro-translate-ai](https://github.com/mohit-deshwal/bistro-translate-ai) *(Replace with your repository link)*
+- **Repository**: [https://github.com/mohit01-beep/bistro-translate-ai](https://github.com/mohit01-beep/bistro-translate-ai)
 - **Tech Stack**: Node.js, Express, Tailwind CSS, Lucide Icons, QRCode.js, and Open-Weight Model Integration (Ollama / Hugging Face / Native Culinary Semantic Engine).
 
 ---

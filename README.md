@@ -112,8 +112,8 @@ The DEV Challenge prompt asks: *"Why does open innovation matter for what you bu
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/your-username/bistro-translate.git
-cd bistro-translate
+git clone https://github.com/mohit01-beep/bistro-translate-ai.git
+cd bistro-translate-ai
 npm install
 ```
 
