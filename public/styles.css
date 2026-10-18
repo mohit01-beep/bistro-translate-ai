@@ -1,0 +1,51 @@
+/* BistroTranslate Custom Styles & Print Stylesheets */
+
+@media print {
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+
+  .print\:hidden {
+    display: none !important;
+  }
+
+  .print\:border-none {
+    border: none !important;
+  }
+
+  .print\:shadow-none {
+    box-shadow: none !important;
+  }
+
+  .print\:p-0 {
+    padding: 0 !important;
+  }
+}
+
+/* Preset card selection state */
+.preset-card.active {
+  border-color: #ea580c !important;
+  background-color: #fff7ed !important;
+}
+
+.engine-tab.active {
+  background-color: white !important;
+  color: #c2410c !important;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+/* Card hover animation */
+.dish-card {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.dish-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08);
+}
+
+/* QR code styling */
+#liveQrCode img, #printQrCodeContainer img {
+  margin: 0 auto;
+}
